@@ -1,0 +1,6 @@
+total 12
+drwxr-xr-x.  2 root    root      47 May 16 14:51 .
+drwx------. 22 yanjing yanjing 4096 May 16 14:47 ..
+-rw-r--r--.  1 root    root      15 May 16 14:51 file
+-rw-r--r--.  1 root    root      74 May 16 14:49 README.md
+-rw-r--r--.  1 root    root       0 May 16 14:52 test
